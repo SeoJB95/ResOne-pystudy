@@ -1,0 +1,23 @@
+CATMAN TEST FILE
+PATH=C:\Users\ResONE\Desktop\WIV exp\1223\S-S4-W073
+Job name=Job1
+Data file with path=C:\Users\ResONE\Desktop\WIV exp\1223\S-S4-W073\tt.txt
+Data file=tt.txt
+File comment=
+Operator=
+Department=
+Comment=
+Default sample rate=200 Hz
+Slow sample rate=5 Hz
+Fast sample rate=2400 Hz
+Number of samples default sample rate=5965
+Number of samples slow sample rate=0
+Number of samples fast sample rate=0
+Saving mode=PROMPT
+Start mode=Manual
+Start time=2020-12-23 오전 9:17:32
+Stop mode=Manual
+Stop time=2020-12-23 오전 9:18:02
+catmanEasy/AP version=4.2.2.14
+Numerical precision=8 Byte Float
+DATAFILE=C:\Users\ResONE\Desktop\WIV exp\1223\S-S4-W073\tt.txt
